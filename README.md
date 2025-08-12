@@ -1,3 +1,3 @@
-# React-_LinkedIn_Learning
+# React_LinkedIn_Learning
 
 __LinkedIn React Learnings go here.__
